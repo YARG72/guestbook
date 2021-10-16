@@ -29,7 +29,6 @@ $messages = array_mess($messages);
 	padding: 10px;
 	margin: 2px;
 
-
 }
 
 </style>
